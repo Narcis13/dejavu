@@ -1,0 +1,8 @@
+{
+  "appId": "com.dejavu",
+  "appName": "dejavu",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
